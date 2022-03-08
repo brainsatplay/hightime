@@ -1,5 +1,5 @@
 # Proposal: hightime
- A toolbox for time series analysis on the browser
+ The first comprehensive toolbox for time series analysis on the browser
 
 ## Description
 The following excerpt is taken from [Toward Community-Driven Big Open Brain Science: Open Big Data and Tools for Structure, Function, and Genetics](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-100119-110036).
