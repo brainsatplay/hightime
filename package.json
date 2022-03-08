@@ -1,0 +1,9 @@
+{
+  "name": "hightime",
+  "version": "0.0.0",
+  "description": " A toolbox for time series analysis on the browser",
+  "main": "src/index.js",
+  "author": "Garrett Flynn <gflynn@usc.edu>",
+  "license": "AGPL-3.0-or-later",
+  "private": false
+}
