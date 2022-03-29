@@ -1,5 +1,5 @@
 # Proposal: hightime
- The first comprehensive toolbox for time series analysis on the browser
+ High-performance time series analysis on the browser
 
 ## Description
 The following excerpt is taken from [Toward Community-Driven Big Open Brain Science: Open Big Data and Tools for Structure, Function, and Genetics](https://www.annualreviews.org/doi/abs/10.1146/annurev-neuro-100119-110036).
@@ -17,3 +17,10 @@ for time series analyses are incorporated into statsmodels, a Python package tha
 regression techniques and basic time series techniques. The need for time series packages yields
 an opportunity for the community to create, either anew or by expanding the current statsmodels,
 the toolbox that will fill that void.
+
+## References
+- [Time Series Wikipedia](https://en.wikipedia.org/wiki/Time_series)
+- [bci.js](https://bci.js.org/docs/)
+- [dsp.js](https://github.com/corbanbrook/dsp.js)
+- [GPU FFT](https://github.com/moothyknight/gpujsutils)
+- [biquadjs](https://github.com/moothyknight/BiquadFilters.js)
