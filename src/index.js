@@ -1,7 +1,12 @@
-import signals from './signals.js'
-import filters from './filters.js'
-export signals
-export filters
+import * as signals from './signals.js'
+import * as filters from './filters.js'
+import * as math from './math.js'
+
+export {
+    filters,
+    math,
+    signals, 
+}
 
 export class DFT {
     spectrum = []
